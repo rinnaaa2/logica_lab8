@@ -1,0 +1,6 @@
+﻿  lab8.cpp
+C:\Users\Марина\Desktop\lab8\lab8.cpp(3,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  C:\Users\Марина\Desktop\lab8\lab8.cpp(3,1):
+  "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+  lab8.vcxproj -> C:\Users\Марина\Desktop\lab8\x64\Debug\lab8.exe
